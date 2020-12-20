@@ -1,0 +1,13 @@
+{
+  "name": "react-rest-api-using-axios",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.2.0",
+    "prop-types": "15.6.0",
+    "axios": "0.17.1"
+  }
+}

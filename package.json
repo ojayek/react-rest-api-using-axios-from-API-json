@@ -1,0 +1,22 @@
+{
+  "name": "react-rest-api-using-axios",
+  "version": "0.0.1",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "prop-types": "15.6.0",
+    "react": "16.2.0",
+    "react-dom": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
